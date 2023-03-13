@@ -2,6 +2,7 @@
     <img width="180" height="180"  src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
 </p>
 
+<hr>
 
 <img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/Vitaliy%20Nosov%20Baner.png" />
  

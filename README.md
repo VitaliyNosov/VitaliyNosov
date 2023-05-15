@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="180" height="180"  src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
+    <img width="180" height="180"  src="https://freepngimg.com/thumb/wordpress_logo/5-2-wordpress-logo-free-download-png.png">
 </p>
 
 <hr>

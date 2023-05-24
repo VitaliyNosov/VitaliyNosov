@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/i.png">
+</p>
+
+<p align="center">
     <img width="180" height="180"  src="https://freepngimg.com/thumb/wordpress_logo/5-2-wordpress-logo-free-download-png.png">
 </p>
 

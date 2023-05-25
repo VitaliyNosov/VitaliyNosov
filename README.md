@@ -1,14 +1,15 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/MyNameLogo.png">
+    <img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/MyNameLogo2.png">
 </p>
+
+<img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/Hire-WordPress-Developer.png" />
+
+<hr>
 
 <p align="center">
     <img width="180" height="180"  src="https://freepngimg.com/thumb/wordpress_logo/5-2-wordpress-logo-free-download-png.png">
 </p>
 
-<hr>
-
-<img src="https://raw.githubusercontent.com/VitaliyNosov/VitaliyNosov/main/image/Vitaliy%20Nosov%20Baner.png" />
  
 ### Hi there 👋
 
